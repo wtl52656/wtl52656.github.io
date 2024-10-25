@@ -13,7 +13,7 @@ const profile = {
             }
         },
         {
-            "text": "I am a visting student at Nanyang Technology University, Supervised by ",
+            "text": "I am a visting student at Nanyang Technological University, Supervised by ",
             "urls":{
                 "Gao Cong": "https://personal.ntu.edu.sg/gaocong/"
             }
@@ -28,7 +28,7 @@ const profile = {
     "footnote": [
         {
             "icon": "geo-alt",
-            "text": "Beijing Jiaotong University, Haidian District, Beijing 100044, China"
+            "text": "Nanyang Technological University, 639798, Singapore"
         }
     ],
     "link": [
@@ -260,7 +260,7 @@ const references = [
     [
         {
             "name": "Gao Cong",
-            "note": "Professor, Nanyang Technology University",
+            "note": "Professor, Nanyang Technological University",
             "link": "https://scholar.google.com/citations?user=6eSvRMkAAAAJ&hl=en"
         },
         {
