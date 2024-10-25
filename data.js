@@ -106,16 +106,18 @@ const News = [
 
 const projects = [
     {
+        "img": "hangxin.png",
         "text": "交易市场数字模型构建及收放舱操作复盘可视化原型系统研究技术服务",
         "note": "Enterprise commissioned research project. Review the operations of airline managers and airline revenue to help airlines make smart decisions."
     },
     {
-        "text": "面向稀疏性问题的时空轨迹生成与表示学习方法研究",
-        "note": "National Natural Science Foundation of China general project (国家自然科学基金面上项目). Research on spatio-temporal trajectory generation and representation learning methods for sparsity problems."
-    },
-    {
+        "img": "trajectory generation.png",
         "text": "基于路网约束的时空轨迹数据生成方法研究",
         "note": "Basic scientific research project of Beijing Jiaotong University (北京交通大学基本科研研究项目). Recovering and generating trajectories using graph neural networks and diffusion model techniques."
+    },
+    {
+        "text": "面向稀疏性问题的时空轨迹生成与表示学习方法研究",
+        "note": "National Natural Science Foundation of China general project (国家自然科学基金面上项目). Research on spatio-temporal trajectory generation and representation learning methods for sparsity problems."
     },
     {
         "text": "面向交通预测的时空轨迹数据预训练表示学习方法研究",
