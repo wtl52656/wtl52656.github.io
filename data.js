@@ -13,7 +13,7 @@ const profile = {
             }
         },
         {
-            "text": "I am a visting student at Nanyang Technological University, Supervised by ",
+            "text": "I am a visiting student at Nanyang Technological University, Supervised by ",
             "urls":{
                 "Gao Cong": "https://personal.ntu.edu.sg/gaocong/"
             }
@@ -265,7 +265,7 @@ const references = [
         },
         {
             "name": "Yan Lin",
-            "note": "Postdoctoral Researcher, Aalborg University.",
+            "note": "Postdoctoral Researcher, Aalborg University",
             "link": "https://scholar.google.com/citations?user=qjBQhoUAAAAJ&hl=zh-CN"
         }
     ]
