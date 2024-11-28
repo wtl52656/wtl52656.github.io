@@ -261,12 +261,12 @@ const references = [
         {
             "name": "Gao Cong",
             "note": "Professor, Nanyang Technological University",
-            "link": "https://scholar.google.com/citations?user=6eSvRMkAAAAJ&hl=en"
+            "link": "https://scholar.google.com.hk/citations?user=WFFamJkAAAAJ"
         },
         {
             "name": "Yan Lin",
             "note": "Postdoctoral Researcher, Aalborg University",
-            "link": "https://scholar.google.com/citations?user=qjBQhoUAAAAJ&hl=zh-CN"
+            "link": "https://scholar.google.com.hk/citations?user=nHMmG2UAAAAJ"
         }
     ]
 ]
